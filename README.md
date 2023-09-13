@@ -10,8 +10,7 @@ We Help Thousands of Children to Get Their Education
 Screenshots
 ---
 ![Screenshot (64)](https://user-images.githubusercontent.com/64891042/194726889-6c443f6c-2741-40c9-a9a5-f97e24a22111.png)
-![Screenshot (65)](https://user-images.githubusercontent.com/64891042/194726906-f3af2942-57de-43e9-a559-d80b3d7eb6b0.png)
-![Screenshot (66)](https://user-images.githubusercontent.com/64891042/194726908-5ea914e9-6abd-4433-a8c1-a1a36ab5dfcd.png)
+
 
 
 ## Instructions
